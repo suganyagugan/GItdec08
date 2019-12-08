@@ -1,1 +1,6 @@
 SAmple program file
+Today git class notes
+basic commands 
+
+hello world 
+
